@@ -1,4 +1,4 @@
-# pagination-scraper.py
+# pagination-scraper
 
 A Python web scraping project that extracts data from multiple pages using pagination.
 
